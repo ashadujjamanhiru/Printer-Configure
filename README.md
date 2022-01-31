@@ -1,4 +1,4 @@
-# Printer-Configure
+# Printer-Configure Epson L130
 Office Printer configure Document
 
 ### Configure / Install Epson L130 ### 
