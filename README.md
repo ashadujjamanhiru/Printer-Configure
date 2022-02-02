@@ -32,7 +32,8 @@ Installation Hp Laserjet pro M402dn Printer Procedure
 
 Step 1: At first Download the driver from the below mention link.
 -------
-            https://support.hp.com/us-en/drivers/selfservice/hp-laserjet-pro-m402-m403-n-dn-      series/7458627/model/7458632
+      https://support.hp.com/us-en/drivers/selfservice/hp-laserjet-pro-m402-m403-n-dn-      series/7458627/model/7458632
+
 Step 2: Click the installed driver
 -------
 Step 3: Next
@@ -56,7 +57,8 @@ Now the printer is successfully installed
 # (As a Network Printer or Personal Use)
 Step 1: At first Download the driver from the below mention link.
 -------
-            https://support.hp.com/us-en/drivers/selfservice/hp-laserjet-pro-m404-m405-series/19203833/model/19202536
+      https://support.hp.com/us-en/drivers/selfservice/hp-laserjet-pro-m404-m405-series/19203833/model/19202536
+
 Step 2: Click the installed driver
 -------
 Step 3: Continue
